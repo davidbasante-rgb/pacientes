@@ -1,0 +1,6 @@
+10|majito|fatima|ninguna|2
+20|david|san pedro|ninguna|1
+30|camilo|departamental|ninguna|1
+40|erick|fatima|ninguna|1
+50|gaby|san pedro|ninguna|2
+60|gaby|fatima|ninguna|2
